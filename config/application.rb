@@ -1,3 +1,5 @@
+import "bootstrap"
+import "@popperjs/core"
 require_relative "boot"
 
 require "rails"
